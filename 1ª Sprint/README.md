@@ -45,7 +45,7 @@
 <h2>Cronograma da 1ª Sprint: 📆</h2>
 <br>
 <br>
-<img align="center" src="Imagens/cronogr1.jpeg"/>
+<img align="center" src="Imagens/cronogr1.png"/>
 
 
 <h3> • Sprint 1 - 13/03 a 02/04 </h3>
