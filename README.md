@@ -44,7 +44,7 @@
  <h3> Tecnologias Exigidas: </h3> 
 
  <p> • NodeJS. </p>
- <p> • VueJS. </p>
+ <p> • React. </p>
  <p> • PostgreSQL. </p>
  <p> • GCP. </p>
  <p> • Docker. </p>
@@ -58,54 +58,54 @@
 <img align="center" src="Imagens/CronogramaGeral.jpeg"/>
 
 
-<h3> • Sprint 1 - 29/08 a 18/09 </h3>
+<h3> • Sprint 1 - 13/03 a 02/04 </h3>
 
 ✔️ Wireframe <br>
-✔️ Estilização do cadastro de canais <br>
-✔️ Estilização das configurações ativas <br>
-✔️ Estilização das configurações de canais <br>
-✔️ Implementação do banco de dados no cadastramento <br>
-✔️ Desenvolvimento da página de login <br>
+✔️ Front End das páginas de usuário comum e administrador <br>
+✔️ Front End das páginas de autenticação <br>
+✔️ Funcionalidades Back End iniciais <br>
+✔️ Conexão e Interatividade do sistema com o Banco de Dados <br>
 
-<h3> • Sprint 2 - 19/09 a 09/10 </h3>
+<h3> • Sprint 2 - 03/04 a 23/04 </h3>
 
-✔️ Funcionalidade do Banco de Dados das páginas : Configurações de canais e Configurações ativas. <br> 
-✔️ Funcionalidade do Back-end das páginas : Configurações de canais e Configurações ativas. <br>
-✔️ Aperfeiçoamento do Front-End e Banco de Dados. <br>
+✔️ Sistema de autenticação <br> 
+✔️ Funcionalidades Back End de autenticação <br>
+✔️ Integração do sistema de autenticação com o Banco de Dados <br>
 
-<h3> • Sprint 3 - 17/10 a 06/11 </h3>
+<h3> • Sprint 3 - 24/04 a 14/05 </h3>
 
-✔️ Barra de Pesquisa. <br>
-✔️ Aperfeiçoamento do Front-End <br>
-✔️ Correção de bugs e aperfeiçoamento no Banco de Dados. <br>
+✔️ Funcionalidades do Banco de Dados que complementem as funções Back End <br>
+✔️ Aperfeiçoamento e funcionalidades avançadas do Back End no sistema <br>
 
-<h3> • Sprint 4 - 07/11 a 27/11 </h3>
-✔️ Barra de pesquisa na página de administrador <br>
-✔️ Aperfeiçoamento do Front-End <br>
-✔️ Visualização de senha na página de login <br>
-✔️ Página de dúvidas frequentes <br>
+<h3> • Sprint 4 - 15/05 a 04/06 </h3>
+✔️ Documentação no GitHub <br>
+✔️ Testes, correções e otimizações <br>
+✔️ Integração com a GCP (Google Cloud Platform) <br>
 
 <br>
 <br>
-<h2>Demonstração completa de nossa aplicação 💻</h2><br>
-<h3 align="center"> Link da aplicação: https://youtu.be/6_AY_52C02E </h3>
+<h2>Demonstração completa de nosso sistema 💻</h2><br>
+<h3 align="center"> Link do sistema: </h3>
 <br>
 <br>
 <h2>Tecnologias Utilizadas 🔧</h2>
 <br>
-• Front-end: Java Swing.<br>
-• Back-end: Java.<br>
-• Banco de Dados: MySQL.<br>
-• Ferramentas: Github, Apache NetBeans IDE, Discord, Figma, Canva, AWS.<br>
+• Front-end: React<br>
+• Back-end: Node.js, TypeScript<br>
+• Banco de Dados: PostgreSQL<br>
+• Ferramentas: Github, Visual Studio Code, SONAR, Docker, Discord, Figma, Canva<br>
 <div style="display: inline_blocks"><br>              
-<img align="center"src="Imagens/java.png" height= "80" width= "80"/>
-<img align="center"src="Imagens/mysql.png" height= "80" width= "80"/>
+<img align="center"src="Imagens/react.png" height= "80" width= "80"/>
+<img align="center"src="Imagens/nodejs.png" height= "80" width= "80"/>
+<img align="center"src="Imagens/typescript.png" height= "80" width= "80"/>
+<img align="center"src="Imagens/postgre.png" height= "80" width= "80"/>
 <img align="center"src="Imagens/github.png" height= "80" width= "80"/>
-<img align="center"src="Imagens/netbeans.png" height= "80" width= "80"/>
+<img align="center"src="Imagens/vs.png" height= "80" width= "80"/>
+<img align="center"src="Imagens/sonar.png" height= "80" width= "80"/>
+<img align="center"src="Imagens/docker.png" height= "80" width= "80"/>
 <img align="center"src="Imagens/discordia.png" height= "80" width= "80"/>
 <img align="center"src="Imagens/figma.png" height= "80" width= "80"/>
 <img align="center"src="Imagens/canva.png" height= "80" width= "80"/>
-<img align="center"src="Imagens/aws.png" height= "80" width= "80"/>
 <br>
 <br>
 <h2>Backlog 📊</h2><br>
@@ -113,7 +113,7 @@
 <br>
 <br>
 
-<img align="center" src="Imagens/BacklogTotal.png"/>
+<img align="center" src="Imagens/backlogTotal.png"/>
 <br>
 <br>
 <h2>Modelo de dados📑</h2><br>
@@ -135,16 +135,6 @@
 <h3>Burndown - 1ª Sprint </h3> <br>
 <img align="center" src="Imagens/Burndown.jpeg" height= "400" width= "600"/>
 <br>
-<h3>Burndown - 2ª Sprint </h3> <br>
-<img align="center" src="Imagens/burnDown2.png" height= "400" width= "600"/>
-<br>
-<h3>Burndown - 3ª Sprint </h3> <br>
-<img align="center" src="Imagens/burndownS3.PNG" height= "400" width= "600"/>
-<br>
-<h3>Burndown - 4ª Sprint </h3> <br>
-<img align="center" src="Imagens/burndownS4.png" height= "400" width= "600"/>
-<br>
-
 
  <h2>Equipe 👾</h2>
  
