@@ -55,7 +55,7 @@
 <h2>Cronograma das Sprints 📆</h2>
 <br>
 <br>
-<img align="center" src="Imagens/cronograma.png"/>
+<img align="center" src="Imagens/cronogramaGeral.png"/>
 
 
 <h3> • Sprint 1 - 13/03 a 02/04 </h3>
