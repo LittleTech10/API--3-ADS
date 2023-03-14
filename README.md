@@ -90,10 +90,10 @@
 <br>
 <h2>Tecnologias Utilizadas 🔧</h2>
 <br>
-• Front-end: React<br>
-• Back-end: Node.js, TypeScript<br>
-• Banco de Dados: PostgreSQL<br>
-• Ferramentas: Github, Visual Studio Code, SONAR, Docker, Discord, Figma, Canva<br>
+• Front-end: React.<br>
+• Back-end: Node.js, TypeScript.<br>
+• Banco de Dados: PostgreSQL.<br>
+• Ferramentas: Github, Visual Studio Code, SONAR, Docker, Discord, Figma, Canva.<br>
 <div style="display: inline_blocks"><br>              
 <img align="center"src="Imagens/react.png" height= "80" width= "80"/>
 <img align="center"src="Imagens/nodejs.png" height= "80" width= "80"/>
