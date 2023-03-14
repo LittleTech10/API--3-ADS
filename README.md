@@ -101,7 +101,7 @@
 <img align="center"src="Imagens/postgre.png" height= "80" width= "80"/>
 <img align="center"src="Imagens/github.png" height= "80" width= "80"/>
 <img align="center"src="Imagens/vs.png" height= "80" width= "80"/>
-<img align="center"src="Imagens/sonar.png" height= "80" width= "80"/>
+<img align="center"src="Imagens/sonar.jpg" height= "80" width= "80"/>
 <img align="center"src="Imagens/docker.png" height= "80" width= "80"/>
 <img align="center"src="Imagens/discordia.png" height= "80" width= "80"/>
 <img align="center"src="Imagens/figma.png" height= "80" width= "80"/>
