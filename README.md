@@ -60,27 +60,27 @@
 
 <h3> • Sprint 1 - 13/03 a 02/04 </h3>
 
-✔️ Wireframe <br>
-✔️ Front End das páginas de usuário comum e administrador <br>
-✔️ Front End das páginas de autenticação <br>
-✔️ Funcionalidades Back End iniciais <br>
-✔️ Conexão e Interatividade do sistema com o Banco de Dados <br>
+✔️ Wireframe. <br>
+✔️ Front End das páginas de usuário comum e administrador. <br>
+✔️ Front End das páginas de autenticação. <br>
+✔️ Funcionalidades Back End iniciais. <br>
+✔️ Conexão e Interatividade do sistema com o Banco de Dados. <br>
 
 <h3> • Sprint 2 - 03/04 a 23/04 </h3>
 
-✔️ Sistema de autenticação <br> 
-✔️ Funcionalidades Back End de autenticação <br>
-✔️ Integração do sistema de autenticação com o Banco de Dados <br>
+✔️ Sistema de autenticação. <br> 
+✔️ Funcionalidades Back End de autenticação. <br>
+✔️ Integração do sistema de autenticação com o Banco de Dados. <br>
 
 <h3> • Sprint 3 - 24/04 a 14/05 </h3>
 
-✔️ Funcionalidades do Banco de Dados que complementem as funções Back End <br>
-✔️ Aperfeiçoamento e funcionalidades avançadas do Back End no sistema <br>
+✔️ Funcionalidades do Banco de Dados que complementem as funções Back End. <br>
+✔️ Aperfeiçoamento e funcionalidades avançadas do Back End no sistema. <br>
 
 <h3> • Sprint 4 - 15/05 a 04/06 </h3>
-✔️ Documentação no GitHub <br>
-✔️ Testes, correções e otimizações <br>
-✔️ Integração com a GCP (Google Cloud Platform) <br>
+✔️ Documentação no GitHub. <br>
+✔️ Testes, correções e otimizações. <br>
+✔️ Integração com a GCP (Google Cloud Platform). <br>
 
 <br>
 <br>

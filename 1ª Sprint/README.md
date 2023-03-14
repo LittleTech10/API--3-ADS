@@ -45,16 +45,16 @@
 <h2>Cronograma da 1ª Sprint: 📆</h2>
 <br>
 <br>
-<img align="center" src="Imagens/CronogramaGeral.jpeg"/>
+<img align="center" src="Imagens/cronogr1.jpeg"/>
 
 
 <h3> • Sprint 1 - 13/03 a 02/04 </h3>
 
-✔️ Wireframe <br>
-✔️ Front End das páginas de usuário comum e administrador <br>
-✔️ Front End das páginas de autenticação <br>
-✔️ Funcionalidades Back End iniciais <br>
-✔️ Conexão e Interatividade do sistema com o Banco de Dados <br>
+✔️ Wireframe. <br>
+✔️ Front End das páginas de usuário comum e administrador.<br>
+✔️ Front End das páginas de autenticação. <br>
+✔️ Funcionalidades Back End iniciais. <br>
+✔️ Conexão e Interatividade do sistema com o Banco de Dados. <br>
 <br>
 <br>
 
