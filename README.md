@@ -119,13 +119,7 @@
 <br>
 
 <h5>Modelo Conceitual<h5>
-<img align="center"src="Imagens/conceitual.jpeg" height= "600" width= "1100"/>
-
-<h5>Modelo Físico<h5>
-<img align="center"src="Imagens/fisico.jpeg" height= "400" width= "600"/>
-
-<h5>Modelo Lógico<h5>
-<img align="center"src="Imagens/Modelo_dados_lógicoS2.jpeg" height= "400" width= "600"/>
+<img align="center"src="Imagens/Diagrama de Entidade e Relacionamento.png" height= "600" width= "1100"/>
 
 <h2>Burndown 📈📉 </h2> <br>
  O Sprint Burndown Chart mostra a comparação entre o trabalho estimado inicialmente no Sprint Planning Meeting com a quantidade restante estimada de trabalho.
