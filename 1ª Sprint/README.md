@@ -68,7 +68,7 @@
 • Front-end: React.<br>
 • Back-end: Node.js, TypeScript.<br>
 • Banco de Dados: PostgreSQL.<br>
-• Ferramentas: Github, Visual Studio Code, SONAR, Docker, Discord, Figma, Canva.<br>
+• Ferramentas: Github, Visual Studio Code, Discord, Figma, Canva.<br>
 <div style="display: inline_blocks"><br>              
 <img align="center"src="Imagens/react.png" height= "80" width= "80"/>
 <img align="center"src="Imagens/nodejs.png" height= "80" width= "80"/>
@@ -76,8 +76,6 @@
 <img align="center"src="Imagens/postgre.png" height= "80" width= "80"/>
 <img align="center"src="Imagens/github.png" height= "80" width= "80"/>
 <img align="center"src="Imagens/vs.png" height= "80" width= "80"/>
-<img align="center"src="Imagens/sonar.jpg" height= "80" width= "80"/>
-<img align="center"src="Imagens/docker.png" height= "80" width= "80"/>
 <img align="center"src="Imagens/discordia.png" height= "80" width= "80"/>
 <img align="center"src="Imagens/figma.png" height= "80" width= "80"/>
 <img align="center"src="Imagens/canva.png" height= "80" width= "80"/>
