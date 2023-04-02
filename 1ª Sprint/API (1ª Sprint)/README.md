@@ -1,4 +1,4 @@
-# API(1ª Sprint)
+# API (1ª Sprint)
 
 <p><b>É necessário ter instalado em sua máquina o Node.js.</b></p>
 
