@@ -1,0 +1,446 @@
+/*NAVBAR*/
+
+.fraseDiv{
+    margin-left: 10px;
+}
+
+/* .navbarContainer{
+    max-width: 100%;
+    position: sticky;
+    top: 0;
+    margin-bottom: 2rem;
+} */
+
+.navbar{
+  background-color: #D3D3D3;
+  padding: 1rem;
+  z-index: 999;
+  margin-bottom: 2%;
+}
+
+/*USERS*/
+
+.tableUserContainer{
+    max-width: 100%;
+    margin-top: 5rem;
+    margin-left: 40rem;
+    margin-right: 2rem;
+    margin-bottom: 5rem;
+}
+
+.posicaoTableUsers{
+    position: static !important;
+    overflow-x: auto;
+    width: 100%;
+    font-size: 0.7rem;
+    margin-top: 2rem;
+  }
+
+  .headingUsers{
+    color: white !important;
+    background-color: #413944;
+    text-align: center !important;
+    
+  }
+    
+  .celImgUsers{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    }
+    
+  .imgUsers{
+    
+    margin-right: -2rem;
+    width: 20%;
+    
+  }
+    
+  .img2Users{
+    margin-right: -2.5rem;
+    width: 45%;
+    height: 1.3rem;
+    
+  }
+    
+  .img3Users{
+    display: inline;
+    margin-left: 80%;
+    width: 45%;
+    height: 1rem;
+    margin-bottom: 4%;
+    
+  }
+
+  .textUsers{
+    margin-right: 0.5rem;
+  }
+    
+  span {
+    flex-grow: 1;
+    text-align: center;
+    
+  }
+    
+  .pagMesclaUsers{
+    background-color: #413944;
+    text-align: center !important;
+    
+  }
+    
+  .sitAtivoUsers{
+    /* color: rgb(0, 255, 13) !important; */
+    text-align: center !important;
+    
+  }
+
+/*HISTORICO*/
+
+.tableHistoricoContainer{
+    max-width: 100%;
+    margin-top: -38rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+
+  .posicaoTableHistorico{
+    position: static !important;
+    width: 40%;
+    overflow-x: auto;
+    margin-bottom: 2rem;
+    font-size: 0.7rem;
+  }
+  
+  .headingHistorico{
+      color: white !important;
+      background-color: #413944;
+      text-align: center !important;
+  }  
+  
+  .heading2Historico {
+      color: white !important;
+      background-color: #a7a5a5;
+      text-align: center !important;
+    }
+  
+  .pagMesclaHistorico{
+      background-color: #413944;
+      text-align: center !important;
+  }
+
+/*GRAFICO*/
+
+.graficoContainer{
+    max-width: 100%;
+    margin-top: 1rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    margin-bottom: 15rem;
+}
+
+  .headingGrafico {
+    color: white !important;
+    background-color: #413944;
+    text-align: center !important;
+    
+  }
+    
+  .posicaoTableGrafico {
+    position: static !important;
+    overflow-x: auto;
+    width: 40%;
+    font-size: 0.7rem;
+    max-width: 100%
+  }
+    
+  .graficoCellGrafico {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    
+  }
+
+/*FOOTER*/
+
+.footerContainer{
+    max-width: 100%;
+}
+
+  .footer {
+    background-color: #D3D3D3;
+    padding: 1rem;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+    margin-top: 1rem;
+  }
+  
+  .footerText {
+    margin-left: 20rem;
+    font-size: 0.8rem;
+    margin-top: 1rem;
+    height: 3.8rem;
+  }
+
+  .footerImgs {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  .footerImgs img {
+    margin-left: 0.6rem;
+    height: 3rem;
+  }
+
+  @media screen and (max-width: 1320px) {
+
+    .navbarContainer{
+        margin-bottom: 2rem;
+    }
+
+    .navbar{
+        margin-bottom: 2rem;
+    }
+
+    /* USERS */
+    .tableUserContainer {
+      max-width: 100%;
+      margin-top: 3rem;
+      margin-bottom: 1rem;
+      margin-left: 0%;
+      margin-right: 0%;
+    }
+  
+    .posicaoTableUsers {
+      position: static !important;
+      overflow-x: auto;
+      left: 0;
+    }
+
+    .imgUsers{
+        margin-right: 0;
+        width: 20%;
+        
+    }
+      
+    .img2Users{
+        margin-right: 0;
+        margin-left: 25%;
+        height: 1.3rem;
+        width: 40%;  
+    }
+        
+    .img3Users{
+        display: inline;
+        margin-left: auto;
+        margin-right: auto;
+        height: 1.3rem;
+        width: 30%;  
+        margin-bottom: -1%;
+    }
+  
+    /* HISTORICO */
+    .tableHistoricoContainer {
+      max-width: 100%;
+      margin-top: 1rem;
+      margin-bottom: 11rem;
+      margin-left: 0%;
+      margin-right: 0%;
+    }
+  
+    .posicaoTableHistorico {
+      position: static !important;
+      width: 100%;
+      overflow-x: auto;
+      left: 0;
+      margin-bottom: 1rem;
+    }
+  
+    /* GRAFICO */
+    .graficoContainer {
+      max-width: 100%;
+      margin-top: 1rem;
+      margin-bottom: 11rem;
+      margin-left: 0%;
+      margin-right: 0%;
+    }
+  
+    .posicaoTableGrafico {
+      position: static !important;
+      width: 100%;
+      overflow-x: auto;
+      left: 0;
+      margin-bottom: 1rem;
+    }
+  }
+
+  @media only screen and (min-width: 1475px) and (max-width: 1599px) {
+
+    .tableHistoricoContainer{
+        max-width: 100%;
+        margin-top: -38rem;
+        margin-left: 1rem;
+        margin-right: 2rem;
+    }
+
+    .graficoContainer {
+        max-width: 100%;
+        margin-top: 1rem;
+        margin-bottom: 11rem;
+        margin-left: 1%;
+        margin-right: 0%;
+      }
+
+      .posicaoTableGrafico {
+        position: static !important;
+        overflow-x: auto;
+        width: 39%;
+        font-size: 0.7rem;
+        max-width: 100%
+      }
+
+    .img2Users{
+        margin-right: 0;
+        margin-left: 0%;
+        height: 1.3rem;
+        width: 40%;  
+    }
+        
+    .img3Users{
+        display: inline;
+        margin-left: auto;
+        margin-right: auto;
+        height: 1.1rem;
+        width: 25%;  
+        margin-bottom: -1%;
+    }
+}
+
+@media only screen and (min-width: 1600px) and (max-width: 1900px){
+    .tableHistoricoContainer{
+        max-width: 100%;
+        margin-top: -38rem;
+        margin-left: 1rem;
+        margin-right: 2rem;
+    }
+    .posicaoTableHistorico{
+        position: static !important;
+        overflow-x: auto;
+        width: 31%;
+        font-size: 0.7rem;
+        max-width: 100%
+    }
+
+    .graficoContainer {
+        max-width: 100%;
+        margin-top: 1rem;
+        margin-bottom: 11rem;
+        margin-left: 1%;
+        margin-right: 0%;
+      }
+
+      .posicaoTableGrafico {
+        position: static !important;
+        overflow-x: auto;
+        width: 30%;
+        font-size: 0.7rem;
+        max-width: 100%;
+      }
+
+    .img2Users{
+        margin-right: 0;
+        margin-left: 0%;
+        height: 1.3rem;
+        width: 40%;  
+    }
+        
+    .img3Users{
+        display: inline;
+        margin-left: auto;
+        margin-right: auto;
+        height: 1.1rem;
+        width: 25%;  
+        margin-bottom: -1%;
+    }
+
+}
+
+@media only screen and (min-width: 1901px) and (max-width: 3000px){
+    .tableUserContainer{
+        margin-right: 0%;
+        max-width: 100%;
+    }
+
+    .posicaoTableUsers{
+        font-size: 1.3rem;
+        width: 90%;
+        margin-left: 100px;
+    }
+    
+    .tableHistoricoContainer{
+        max-width: 80%;
+        margin-top: -50rem;
+        margin-left: 1rem;
+        margin-right: 2rem;
+    }
+    .posicaoTableHistorico{
+        position: static !important;
+        overflow-x: auto;
+        width: 31%;
+        font-size: 0.7rem;
+        font-size: 1.3rem;
+        max-width: 100%;
+        
+    }
+
+    .graficoContainer {
+        max-width: 80%;
+        margin-top: 1rem;
+        margin-bottom: 11rem;
+        margin-left: 1%;
+        margin-right: 0%;
+      }
+
+      .posicaoTableGrafico {
+        position: static !important;
+        overflow-x: auto;
+        width: 30%;
+        font-size: 0.7rem;
+        font-size: 1.3rem;
+        max-width: 100%;
+        height: 70%;
+      }
+
+    .img2Users{
+        margin-right: 0;
+        margin-left: 0%;
+        height: 1.3rem;
+        width: 40%;  
+    }
+        
+    .img3Users{
+        display: inline;
+        margin-left: auto;
+        margin-right: auto;
+        height: 1.1rem;
+        width: 25%;  
+        margin-bottom: -1%;
+    }
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  background-color: white !important;
+}
+
+html {
+  background-color: white !important;
+}
