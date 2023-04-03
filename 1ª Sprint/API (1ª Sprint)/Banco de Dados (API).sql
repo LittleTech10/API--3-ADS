@@ -19,8 +19,8 @@ create table Usuarios (
 
 create table Acoes (
 	acao_ID SERIAL primary key not null,
-	tipo_acao desc100 check(tipo_acao in('Troca de senha', 'Troca de email', 'TrocaNomeUsuario')) not null,
+	tipo_acao desc100 check(tipo_acao in('Troca de senha', 'Troca de email', 'Troca de nome de usuário')) not null,
 	data_acao timestamp default CURRENT_TIMESTAMP not null,
 	ID_usuario uuid not null,
 	foreign key (ID_usuario) REFERENCES Usuarios(usuario_ID)
-)
+);
