@@ -136,8 +136,8 @@
   color: #000000; 
   cursor: pointer;
   width: 200px;
-  margin-top: 20px;
-  font-size: 90%;
+  font-size: 100%;
+  margin-left: 100px;
 }
 
 @media only screen and (max-width: 768px) {

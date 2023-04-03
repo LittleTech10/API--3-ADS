@@ -73,9 +73,7 @@ function PaginaUsuario() {
 
       {IsOpenPopup && <PopupEdicao setIsOpenPopup={setIsOpenPopup} />}
       <TabelaInfoAcoes acoes={acoes} />
-      <div className="buttonUser2">
-      <button  type="button" onClick={setIsOpenPopup.bind(IsOpenPopup, true)}><strong>Editar informações</strong></button>
-      </div>
+      <button type="button" onClick={setIsOpenPopup.bind(IsOpenPopup, true)} className={styles.buttonUser2}><strong>Editar informações</strong></button>
       </div>
 
 
