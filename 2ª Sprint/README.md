@@ -45,7 +45,7 @@
 <h2>Cronograma da 2ª Sprint: 📆</h2>
 <br>
 <br>
-<img align="center" src="Imagens/cronogr2.png"/>
+<img align="center" src="Imagens/cronogra2.png"/>
 
 
 <h3> • Sprint 2 - 03/04 a 23/04 </h3>
