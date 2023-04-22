@@ -19,7 +19,7 @@ export default function NavbarUser(){
                     Operação:
                 </span>
                 <span className={styles.txt2User}>
-                    Informações do Usuários
+                    Informações do usuário
                 </span>
             </div>
             <div className={styles.ladoDireitoUser}>

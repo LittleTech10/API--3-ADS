@@ -39,7 +39,7 @@ export default function Info(){
             <div className={styles.containerInfoDireita}> 
                 {usuario ? (
                     <div className={styles.Informações}>
-                        <h1 className={styles.paragrafo1}>Informações do Usuário</h1>
+                        <h1 className={styles.paragrafo1}>Informações do usuário</h1>
                         <p className={styles.paragrafo2}><b>Nome: </b> {usuario.nome}</p>
                         <p className={styles.paragrafo2}><b>Email: </b> {usuario.email}</p>
                         <p className={styles.paragrafo2}><b>Usuário: </b>{usuario.username}</p>    

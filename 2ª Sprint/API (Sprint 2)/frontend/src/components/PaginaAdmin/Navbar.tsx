@@ -20,7 +20,7 @@ export default function Navbar(){
                     Operação:
                 </span>
                 <span className={styles.txt2}>
-                    Gerenciamento de Usuários
+                    Gerenciamento de usuários
                 </span>
             </div>
             <div className={styles.ladoDireito}>
