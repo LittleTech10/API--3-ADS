@@ -126,10 +126,10 @@
  O Sprint Burndown Chart mostra a comparação entre o trabalho estimado inicialmente no Sprint Planning Meeting com a quantidade restante estimada de trabalho.
 <br>
 <h3>Burndown - 1ª Sprint </h3> <br>
-<img align="center" src="Imagens/1burndown.jpeg" height= "400" width= "600"/>
+<img align="center" src="Imagens/1burndown.jpeg" height= "400" width= "700"/>
 <br>
 <h3>Burndown - 2ª Sprint </h3> <br>
-<img align="center" src="Imagens/burndown-S2.jpeg" height= "400" width= "600"/>
+<img align="center" src="Imagens/burndown-S2.jpeg" height= "400" width= "700"/>
 <br>
 
  <h2>Equipe 👾</h2>
