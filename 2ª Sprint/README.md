@@ -58,6 +58,7 @@
 
 <h2>Demonstração de nossa aplicação 💻</h2><br>
 <br>
+<img align="center" src="Imagens/API_GIF.gif"/>
 <br>
 
 <h2>Tecnologias Utilizadas 🔧</h2>
