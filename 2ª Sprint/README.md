@@ -60,6 +60,8 @@
 <br>
 <img align="center" src="Imagens/API_GIF.gif"/>
 <br>
+<img align="center" src="Imagens/Video API - Parte editar senha.gif"/>
+<br>
 
 <h2>Tecnologias Utilizadas 🔧</h2>
 <br>
