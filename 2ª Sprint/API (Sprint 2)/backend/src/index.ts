@@ -8,8 +8,8 @@ import shortid from "shortid";
 const DB = new Pool({
     user: "postgres",
     host: "localhost",
-    database: "API_Visiona",
-    password: "thygas020",
+    database: "",
+    password: "",
     port: 5432      //Porta padrão é 5432 ---- Porta 5555 é a do ELI
 })
 
@@ -172,13 +172,13 @@ app.post('/enviar-token', (req, res) => {
         port: 587,
         secure: false,
         auth: {
-            user: "littletechlobby@outlook.com",
-            pass: "littletech123"
+            user: "",
+            pass: ""
         }
     });
 
     transporter.sendMail({ // Envia o Email
-        from: 'littletechlobby@outlook.com',
+        from: '',
         to: email, // Email destinatário
         subject: 'Seu Token',
         html: `Seu token é: <b>${token}</b>`
