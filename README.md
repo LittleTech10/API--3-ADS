@@ -131,6 +131,9 @@
 <h3>Burndown - 2ª Sprint </h3> <br>
 <img align="center" src="Imagens/burndown-S2.jpeg" height= "400" width= "700"/>
 <br>
+<h3>Burndown - 3ª Sprint </h3> <br>
+<img align="center" src="Imagens/burndown-S3.jpeg" height= "400" width= "700"/>
+<br>
 
  <h2>Equipe 👾</h2>
  

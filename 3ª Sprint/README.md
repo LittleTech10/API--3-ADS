@@ -42,17 +42,16 @@
  <br>
 
  
-<h2>Cronograma da 2ª Sprint: 📆</h2>
+<h2>Cronograma da 3ª Sprint: 📆</h2>
 <br>
 <br>
-<img align="center" src="Imagens/cronogra2.png"/>
+<img align="center" src="Imagens/sprint3.png"/>
 
 
-<h3> • Sprint 2 - 03/04 a 23/04 </h3>
+<h3> • Sprint 3 - 24/04 a 14/05 </h3>
 
-✔️ Sistema de autenticação. <br> 
-✔️ Funcionalidades Back End de autenticação. <br>
-✔️ Integração do sistema de autenticação com o Banco de Dados. <br>
+✔️ Funcionalidades do Banco de Dados que complementem as funções Back End. <br>
+✔️ Aperfeiçoamento e funcionalidades avançadas do Back End no sistema. <br>
 <br>
 <br>
 
