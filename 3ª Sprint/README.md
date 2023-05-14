@@ -59,6 +59,8 @@
 <br>
 <img align="center" src="Imagens/demonstraGIF.gif"/>
 <br>
+<img align="center" src="Imagens/demonstraGIF2.gif"/>
+<br>
 
 <h2>Tecnologias Utilizadas 🔧</h2>
 <br>
