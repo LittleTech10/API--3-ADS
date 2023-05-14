@@ -85,7 +85,7 @@
 <br>
 <br>
 <h2>Demonstração completa de nosso sistema 💻</h2><br>
-<h3 align="center"> Link do sistema: https://youtu.be/lWk2a101yFk</h3>
+<h3 align="center"> Link do sistema: https://youtu.be/CaDk3ORfX8A</h3>
 <br>
 <br>
 <h2>Tecnologias Utilizadas 🔧</h2>

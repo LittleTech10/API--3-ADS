@@ -57,9 +57,7 @@
 
 <h2>Demonstração de nossa aplicação 💻</h2><br>
 <br>
-<img align="center" src="Imagens/API_GIF.gif"/>
-<br>
-<img align="center" src="Imagens/Video API - Parte editar senha.gif"/>
+<img align="center" src="Imagens/demonstraGIF.gif"/>
 <br>
 
 <h2>Tecnologias Utilizadas 🔧</h2>
