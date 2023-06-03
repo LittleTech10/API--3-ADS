@@ -42,16 +42,17 @@
  <br>
 
  
-<h2>Cronograma da 3ª Sprint: 📆</h2>
+<h2>Cronograma da 4ª Sprint: 📆</h2>
 <br>
 <br>
-<img align="center" src="Imagens/sprint3.png"/>
+<img align="center" src="Imagens/sprint4.png"/>
 
 
 <h3> • Sprint 4 - 15/05 a 04/06 </h3>
 
-✔️ Funcionalidades do Banco de Dados que complementem as funções Back End. <br>
-✔️ Aperfeiçoamento e funcionalidades avançadas do Back End no sistema. <br>
+✔️ Correções de bugs e otimizações. <br>
+✔️ Funções back end por parte de  admin. <br>
+✔️ Deploy da aplicação. <br>
 <br>
 <br>
 

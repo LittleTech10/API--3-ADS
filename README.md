@@ -55,7 +55,7 @@
 <h2>Cronograma das Sprints 📆</h2>
 <br>
 <br>
-<img align="center" src="Imagens/cronogramaGeral.png"/>
+<img align="center" src="Imagens/geral.png"/>
 
 
 <h3> • Sprint 1 - 13/03 a 02/04 </h3>
@@ -78,9 +78,9 @@
 ✔️ Aperfeiçoamento e funcionalidades avançadas do Back End no sistema. <br>
 
 <h3> • Sprint 4 - 15/05 a 04/06 </h3>
-✔️ Documentação no GitHub. <br>
-✔️ Testes, correções e otimizações. <br>
-✔️ Integração com a GCP (Google Cloud Platform). <br>
+✔️ Correções de bugs e otimizações. <br>
+✔️ Funções back end por parte de  admin. <br>
+✔️ Deploy da aplicação. <br>
 
 <br>
 <br>
