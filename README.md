@@ -85,7 +85,8 @@
 <br>
 <br>
 <h2>Demonstração completa de nosso sistema 💻</h2><br>
-<h3 align="center"> Link do sistema: https://youtu.be/CaDk3ORfX8A</h3>
+<h3 align="center"> Link do vídeo do sistema: https://youtu.be/CaDk3ORfX8A</h3>
+<h3 align="center"> Link da aplicação: https://visiona-dashboard.vercel.app/login</h3>
 <br>
 <br>
 <h2>Tecnologias Utilizadas 🔧</h2>
