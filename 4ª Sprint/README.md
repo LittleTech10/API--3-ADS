@@ -48,7 +48,7 @@
 <img align="center" src="Imagens/sprint3.png"/>
 
 
-<h3> • Sprint 3 - 24/04 a 14/05 </h3>
+<h3> • Sprint 4 - 15/05 a 04/06 </h3>
 
 ✔️ Funcionalidades do Banco de Dados que complementem as funções Back End. <br>
 ✔️ Aperfeiçoamento e funcionalidades avançadas do Back End no sistema. <br>
@@ -98,7 +98,7 @@
 <h2>Burndown 📈📉 </h2> <br>
  O Sprint Burndown Chart mostra a comparação entre o trabalho estimado inicialmente no Sprint Planning Meeting com a quantidade restante estimada de trabalho.
 <br>
-<img align="center" src="Imagens/burndown-S3.jpeg" height= "400" width= "700"/>
+<img align="center" src="Imagens/burndown-S4.jpeg" height= "400" width= "700"/>
 <br>
 
  <h2>Equipe 👾</h2>
