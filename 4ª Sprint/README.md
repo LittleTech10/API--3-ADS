@@ -69,6 +69,7 @@
 <br>
 <img align="center" src="Imagens/S4-5.jpeg"/>
 <br>
+<h3>Tela de edição de um usuário sendo um usuário Administrador</h3>
 <img align="center" src="Imagens/S4-6.jpeg"/>
 <br>
 
