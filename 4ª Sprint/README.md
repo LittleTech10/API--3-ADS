@@ -58,9 +58,17 @@
 
 <h2>Demonstração de nossa aplicação 💻</h2><br>
 <br>
-<img align="center" src="Imagens/demonstraGIF.gif"/>
+<img align="center" src="Imagens/S4-1.jpeg"/>
 <br>
-<img align="center" src="Imagens/demonstraGIF2.gif"/>
+<img align="center" src="Imagens/S4-2.jpeg"/>
+<br>
+<img align="center" src="Imagens/S4-3.jpeg"/>
+<br>
+<img align="center" src="Imagens/S4-4.jpeg"/>
+<br>
+<img align="center" src="Imagens/S4-5.jpeg"/>
+<br>
+<img align="center" src="Imagens/S4-6.jpeg"/>
 <br>
 
 <h2>Tecnologias Utilizadas 🔧</h2>
