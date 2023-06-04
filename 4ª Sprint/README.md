@@ -56,8 +56,9 @@
 <br>
 <br>
 
-<h2>Demonstração de nossa aplicação 💻</h2><br>
+<h2>Demonstração do que foi feito na Sprint 4 💻</h2><br>
 <br>
+<h3>Ajustes nos filtros para pesquisa das tabelas (imagens 1, 2, 3, 4 e 5)</h3>
 <img align="center" src="Imagens/S4-1.jpeg"/>
 <br>
 <img align="center" src="Imagens/S4-2.jpeg"/>
